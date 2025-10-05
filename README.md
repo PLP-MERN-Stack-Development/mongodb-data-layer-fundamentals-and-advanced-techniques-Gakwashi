@@ -12,6 +12,8 @@ Before running the scripts, make sure the following are installed:
 Once Node.js is installed, set up your project environment by running:
 
 ```bash
+npm init -y
+npm install mongodb
 
 
 How to Run the Scripts
